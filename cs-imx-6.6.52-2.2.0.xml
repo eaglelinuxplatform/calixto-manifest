@@ -19,7 +19,7 @@
   <remote fetch="https://github.com/nxp-imx-support" name="imx-support"/>
 
    <!-- Calixto Yocto Project BSP -->
-  <project name="meta-calixto-nxp" path="sources/meta-calixto-nxp" remote="eagle" revision="45d6b1133cc84513622688c28f1239c1fe3ace06" upstream="scarthgap">                                                                                       
+  <project name="meta-calixto-nxp" path="sources/meta-calixto-nxp" remote="eagle" revision="a65c9eb6acfc5684a16da929ba2e6390521b48ec" upstream="scarthgap">                                                                                       
     <linkfile dest="calixto-setup-release.sh" src="tools/calixto-setup-release.sh"/>
     <linkfile dest="setup-environment" src="tools/setup-environment"/>
     <linkfile dest="install_prerequisites.sh" src="tools/install_prerequisites.sh"/>
